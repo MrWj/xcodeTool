@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string></string>
+	<string>funcc</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -22,9 +22,9 @@ func &lt;#name#&gt; (&lt;#param#&gt;: &lt;#type#&gt;) -&gt; &lt;#Any#&gt; {
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>func</string>
+	<string>funcc</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>func</string>
+	<string>funcc</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
