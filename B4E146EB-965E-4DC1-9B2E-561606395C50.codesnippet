@@ -28,6 +28,6 @@ func &lt;#name#&gt; (&lt;#param#&gt;: &lt;#type#&gt;) -&gt; &lt;#Any#&gt; {
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

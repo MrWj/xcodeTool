@@ -11,6 +11,8 @@
 	<key>IDECodeSnippetContents</key>
 	<string>#if DEBUG
 &lt;#name#&gt;
+#else
+&lt;#name#&gt;
 #endif</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>84D1E20F-B6D8-4C80-98DE-9F1E5F98E7C3</string>
